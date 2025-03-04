@@ -1,0 +1,9 @@
+echo This will keep track of all the work done in this unit > README.md
+git add .
+git commit -m "README.md commit"
+git remote add origin https://github.com/adusiala/mcast.pds.adrianna_maszniew.git
+git push -u origin master
+git branch test
+git checkout test
+mkdir 1.1_GIT
+cd 1.1_GIT
