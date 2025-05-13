@@ -1,0 +1,6 @@
+03/22 08:51:01 INFO   :.main: Using log level 511
+03/22 08:51:03 ERROR  :.main: Connection failed
+03/22 08:51:04 INFO   :.auth: Retrying connection
+03/22 08:51:06 DEBUG  :.auth: Token refreshed
+03/22 08:51:09 WARNING:.db: Low disk space
+03/22 08:51:10 INFO   :.main: Restarting process
